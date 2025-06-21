@@ -14,9 +14,9 @@ Saya **Willy Calvin Candra Lay**, seorang pengembang yang tertarik di dunia pemr
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Laravel-Dark.svg" width="40" height="40" alt="laravel"/> &nbsp;
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" width="40" height="40" alt="react"/> &nbsp;
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" width="40" height="40" alt="mysql"/> &nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg" width="40" height="40" alt="tailwindcss"/>
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VueJS-Dark.svg" width="40" height="40" alt="vuejs"/>
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MonggoDB.svg" width="40" height="40" alt="monggodb"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg" width="40" height="40" alt="tailwindcss"/> &nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VueJS-Dark.svg" width="40" height="40" alt="vuejs"/> &nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" width="40" height="40" alt="monggodb"/>
 </p>
 
 ---
