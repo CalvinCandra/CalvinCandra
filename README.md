@@ -1,4 +1,4 @@
-## Halo! 👋
+## Halo Semuanya! 👋
 
 Saya **Willy Calvin Candra Lay**, seorang pengembang yang tertarik di dunia pemrograman dan teknologi. Saat ini saya sedang fokus mengembangkan skill di bidang web development.
 
@@ -15,14 +15,11 @@ Saya **Willy Calvin Candra Lay**, seorang pengembang yang tertarik di dunia pemr
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" width="40" height="40" alt="react"/> &nbsp;
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" width="40" height="40" alt="mysql"/> &nbsp;
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg" width="40" height="40" alt="tailwindcss"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VueJS-Dark.svg" width="40" height="40" alt="vuejs"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MonggoDB.svg" width="40" height="40" alt="monggodb"/>
 </p>
 
 ---
 
 ### 🚀 Ketertarikan:
 Saya tertarik untuk menjadi **Fullstack Developer**, karena saya suka mengembangkan aplikasi dari sisi frontend maupun backend.
-
----
-
-### 🤓 Fun Fact:
-Saya lebih semangat ngoding saat hujan atau malam hari atau ada musik! 🌧️🌙🎶
